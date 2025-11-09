@@ -1,0 +1,21 @@
+[submodule "landuse-3hm"]
+	path = landuse-3hm
+	url = https://github.com/longavailable/ydm-esa-landuse-images-3hm
+[submodule "simulated-3hm"]
+	path = simulated-3hm
+	url = https://github.com/longavailable/ydm-landuse-images-simulated
+[submodule "landuse-5k"]
+	path = landuse-5k
+	url = https://github.com/longavailable/ydm-landuse-images-5k.git
+[submodule "binarized-landuse-5k"]
+	path = binarized-landuse-5k
+	url = https://github.com/longavailable/ydm-binarized-landuse-images-5k.git
+[submodule "calculated-5k"]
+	path = calculated-5k
+	url = https://github.com/longavailable/ydm-landuse-images-calculated-5k
+[submodule "landuse-urban-vector-5k"]
+	path = landuse-urban-vector-5k
+	url = https://github.com/longavailable/ydm-landuse-urban-vector-5k
+[submodule "ydm-lulc-gee-scripts"]
+	path = ydm-lulc-gee-scripts
+	url = https://github.com/longavailable/ydm-lulc-gee-scripts
