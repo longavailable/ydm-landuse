@@ -19,3 +19,6 @@
 [submodule "ydm-lulc-gee-scripts"]
 	path = ydm-lulc-gee-scripts
 	url = https://github.com/longavailable/ydm-lulc-gee-scripts
+[submodule "ydm-lulc-local-scripts"]
+	path = ydm-lulc-local-scripts
+	url = https://github.com/longavailable/ydm-lulc-local-scripts
